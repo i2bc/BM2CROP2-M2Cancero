@@ -1,5 +1,5 @@
 # M2 Cancerologie
-## Université Paris Saclay - UE BM2CROP2 Bioinformatique
+## UE BM2CROP2 Bioinformatique - Université Paris Saclay
 
 Gaelle Lelandais, Mélina Gallopin, Daniel Gautheret
 
